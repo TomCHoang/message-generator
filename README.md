@@ -30,5 +30,6 @@
    * Evening: 6PM to 11:59:59PM
 2. Have button next to each result to copy to clipboard.
 3. Ignore empty tables and blank rows
+4. Option to restrict json tree. Instead of roomNumber, it would be reservation:roomNumber instead.
 
 
