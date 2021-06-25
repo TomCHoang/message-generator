@@ -1,0 +1,24 @@
+textarea {
+	height: 200px;
+	width: 100%;
+}
+
+.message-generator-input-table {
+	position: relative;
+}
+
+.table-loading-overlay {
+	width: 100%;
+	height: 100%;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: rgba(200,200,200,.5);
+	display: none;
+}
+
+.table-loading-overlay.show {
+	display: -ms-flexbox!important;
+    display: flex!important;
+}
