@@ -32,5 +32,6 @@
 3. Have button next to each result to copy to clipboard.
 4. Ignore empty tables and blank rows
 5. Option to restrict json tree. Instead of roomNumber, it would be reservation:roomNumber instead.
+6. Not design responsive. Ugly on mobile.
 
 
