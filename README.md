@@ -33,5 +33,6 @@
 4. Ignore empty tables and blank rows
 5. Option to restrict json tree. Instead of roomNumber, it would be reservation:roomNumber instead.
 6. Not design responsive. Ugly on mobile.
+7. Disregarded timezone in Companies.json. Defaulted timezone UTC−00:00
 
 
