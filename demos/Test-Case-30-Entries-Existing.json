@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "company": "Hotel California",
+    "city": "Santa Barbara",
+    "timezone": "US/Pacific"
+  },
+  {
+    "id": 2,
+    "company": "The Grand Budapest Hotel",
+    "city": "Republic of Zubrowka",
+    "timezone": "US/Central"
+  },
+  {
+    "id": 3,
+    "company": "The Heartbreak Hotel",
+    "city": "Graceland",
+    "timezone": "US/Central"
+  },
+  {
+    "id": 4,
+    "company": "The Prancing Pony",
+    "city": "Bree",
+    "timezone": "US/Central"
+  },
+  {
+    "id": 5,
+    "company": "The Fawlty Towers",
+    "city": "Torquay",
+    "timezone": "US/Eastern"
+  },
+  {
+    "id": 6,
+    "company": "Hotel California",
+    "city": "Santa Barbara",
+    "timezone": "US/Pacific"
+  },
+  {
+    "id": 7,
+    "company": "The Grand Budapest Hotel",
+    "city": "Republic of Zubrowka",
+    "timezone": "US/Central"
+  },
+  {
+    "id": 8,
+    "company": "The Heartbreak Hotel",
+    "city": "Graceland",
+    "timezone": "US/Central"
+  },
+  {
+    "id": 9,
+    "company": "The Prancing Pony",
+    "city": "Bree",
+    "timezone": "US/Central"
+  },
+  {
+    "id": 10,
+    "company": "The Fawlty Towers",
+    "city": "Torquay",
+    "timezone": "US/Eastern"
+  },
+  {
+    "id": 11,
+    "company": "Hotel California",
+    "city": "Santa Barbara",
+    "timezone": "US/Pacific"
+  },
+  {
+    "id": 12,
+    "company": "The Grand Budapest Hotel",
+    "city": "Republic of Zubrowka",
+    "timezone": "US/Central"
+  },
+  {
+    "id": 13,
+    "company": "The Heartbreak Hotel",
+    "city": "Graceland",
+    "timezone": "US/Central"
+  },
+  {
+    "id": 14,
+    "company": "The Prancing Pony",
+    "city": "Bree",
+    "timezone": "US/Central"
+  },
+  {
+    "id": 15,
+    "company": "The Fawlty Towers",
+    "city": "Torquay",
+    "timezone": "US/Eastern"
+  },
+  {
+    "id": 16,
+    "company": "Hotel California",
+    "city": "Santa Barbara",
+    "timezone": "US/Pacific"
+  },
+  {
+    "id": 17,
+    "company": "The Grand Budapest Hotel",
+    "city": "Republic of Zubrowka",
+    "timezone": "US/Central"
+  },
+  {
+    "id": 18,
+    "company": "The Heartbreak Hotel",
+    "city": "Graceland",
+    "timezone": "US/Central"
+  },
+  {
+    "id": 19,
+    "company": "The Prancing Pony",
+    "city": "Bree",
+    "timezone": "US/Central"
+  },
+  {
+    "id": 20,
+    "company": "The Fawlty Towers",
+    "city": "Torquay",
+    "timezone": "US/Eastern"
+  },
+  {
+    "id": 21,
+    "company": "Hotel California",
+    "city": "Santa Barbara",
+    "timezone": "US/Pacific"
+  },
+  {
+    "id": 22,
+    "company": "The Grand Budapest Hotel",
+    "city": "Republic of Zubrowka",
+    "timezone": "US/Central"
+  },
+  {
+    "id": 23,
+    "company": "The Heartbreak Hotel",
+    "city": "Graceland",
+    "timezone": "US/Central"
+  },
+  {
+    "id": 24,
+    "company": "The Prancing Pony",
+    "city": "Bree",
+    "timezone": "US/Central"
+  },
+  {
+    "id": 25,
+    "company": "The Fawlty Towers",
+    "city": "Torquay",
+    "timezone": "US/Eastern"
+  },
+  {
+    "id": 26,
+    "company": "Hotel California",
+    "city": "Santa Barbara",
+    "timezone": "US/Pacific"
+  },
+  {
+    "id": 27,
+    "company": "The Grand Budapest Hotel",
+    "city": "Republic of Zubrowka",
+    "timezone": "US/Central"
+  },
+  {
+    "id": 28,
+    "company": "The Heartbreak Hotel",
+    "city": "Graceland",
+    "timezone": "US/Central"
+  },
+  {
+    "id": 29,
+    "company": "The Prancing Pony",
+    "city": "Bree",
+    "timezone": "US/Central"
+  },
+  {
+    "id": 30,
+    "company": "The Fawlty Towers",
+    "city": "Torquay",
+    "timezone": "US/Eastern"
+  }
+]

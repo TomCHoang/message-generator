@@ -1,0 +1,1 @@
+30 entries. Good {{startTimestamp}} {{firstName}} {{lastName}}, and welcome to {{company}}! It is sunny in {{city}}. Room {{roomNumber}} is now ready you. Enjoy your stay, and let us know if you need anything.
