@@ -2,7 +2,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="shortcut icon" href="/wp-content/themes/tomhoangdesign/favicon.ico" type="image/x-icon"> 
+        <link rel="shortcut icon" href="https://tomhoangdesign.com/wp-content/themes/tomhoangdesign/favicon.ico" type="image/x-icon"> 
         <title>Message Generator - Tom Hoang Design</title>
 
         <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
@@ -24,8 +24,8 @@
                 </p>
                 <p>&nbsp;</p>
                 <p>
-                    <a href="/wp-content/themes/tomhoangdesign/Guests.json" class="btn btn-primary" download>Download Demo Input File 1</a>
-                    <a href="/wp-content/themes/tomhoangdesign/Companies.json" class="btn btn-primary" download>Download Demo Input File 2</a>
+                    <a href="https://tomhoangdesign.com/wp-content/themes/tomhoangdesign/Guests.json" class="btn btn-primary" download>Download Demo Input File 1</a>
+                    <a href="https://tomhoangdesign.com/wp-content/themes/tomhoangdesign/Companies.json" class="btn btn-primary" download>Download Demo Input File 2</a>
                 </p>
             </div>
         </section>
