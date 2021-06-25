@@ -13,6 +13,7 @@
 
 ## Overview of design decisions
 * I decided to create a webpage because I wanted an interactive GUI.
+* I decided to inject the HTML with jQuery to allow better portability.
 
 ## Languages
 * Languages used are PHP, Bootstrap, jQuery.
