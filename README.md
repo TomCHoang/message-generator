@@ -28,8 +28,9 @@
    * Morning: 12AM to 10:59:59AM
    * Afternoon: 11AM to 5:59:59PM
    * Evening: 6PM to 11:59:59PM
-2. Have button next to each result to copy to clipboard.
-3. Ignore empty tables and blank rows
-4. Option to restrict json tree. Instead of roomNumber, it would be reservation:roomNumber instead.
+2. Determing the timestamp is by doing a substring search of the header for "timestamp" or "Timestamp". This can be solved by a user selectable column type.
+3. Have button next to each result to copy to clipboard.
+4. Ignore empty tables and blank rows
+5. Option to restrict json tree. Instead of roomNumber, it would be reservation:roomNumber instead.
 
 
